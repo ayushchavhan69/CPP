@@ -2,6 +2,14 @@
 
 This repository contains C++ source code implementations, exercises, and real-time applications organized by learning units.
 
+## Student Details
+
+- **Student Name:** Ayush Sanjay Chavhan
+- **PRN:** 125UAD1074
+- **Class/Division:** S.Y. B.Tech AIDS (AD2309)
+- **Course Name:** Object Oriented Programming with C++
+- **Unit Covered:** Unit I
+
 ## 📁 Repository Structure
 
 ### 1. `code book/`
